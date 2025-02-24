@@ -448,7 +448,7 @@ if __name__ == "__main__":
         print("  heuristica: manhattan, euclidean (por defecto: manhattan)")
         
         
-        maze_path = "Test.bmp"  
+        maze_path = "Test2.bmp"  
         grid_size = 10
         algorithm = "astar"  
         heuristic_type = "manhattan"  
